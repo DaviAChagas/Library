@@ -70,6 +70,8 @@ bottom: 3vh;
 width: 104px;
 height: 42px;
 border: none;
+color: #e6dddd;
+font-size: large;
 background: #163351;
 box-shadow: 2px 2px 4px rgba(6, 6, 6, 0.15), -2px -2px 4px rgba(37, 37, 37, 0.25);
 border-radius: 16px;
@@ -274,6 +276,14 @@ left: 50px;
     background: #333e47;
 }
  
+form input {
+    outline: none;
+    color: #e6dddd;
+    padding: 2vh;
+    font-size: large;
+    font-family: 'Murecho', sans-serif;
+}
+
 
 @keyframes appear{
      0% {
